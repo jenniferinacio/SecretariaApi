@@ -24,9 +24,6 @@ Antes de começar, verifique se você tem os seguintes itens instalados:
    - Arquivo → Abrir → Projeto/Solução
    - Selecione `SecretariaApi.sln`
 
-3. Restaure os pacotes NuGet:
-   - Menu: Ferramentas → Gerenciador de Pacotes NuGet → Restaurar Pacotes
-
 ## ⚙️ Configuração
 
 A aplicação utiliza o arquivo `appsettings.json` para configuração do ambiente.

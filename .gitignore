@@ -22,6 +22,4 @@ obj/
 *.dbmdl
 *.sqlite
 
-## Outros arquivos desnecessários
-.DS_Store
-Thumbs.db
+
