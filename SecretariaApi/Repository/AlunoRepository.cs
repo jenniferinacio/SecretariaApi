@@ -17,7 +17,7 @@ namespace SecretariaApi.Repository
         {
             try
             {
-                var sql = @"SELECT nome as Nome,dt_nacimento as DtNascimento,cpf as Cpf FROM Aluno a
+                var sql = @"SELECT a.id_aluno as IdAluno,u.id_usuario as IdUsuario, nome as Nome,dt_nacimento as DtNascimento,cpf as Cpf,u.email as Email,u.tipo_usuario as TipoUsuario FROM Aluno a
                     inner join Usuario u on u.id_usuario = a.id_usuario
                     WHERE a.nome LIKE @Nome
                     ORDER BY a.nome ASC
