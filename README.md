@@ -16,7 +16,7 @@ Antes de começar, verifique se você tem os seguintes itens instalados:
 
 1. Clone ou extraia este repositório:
    ```bash
-   git clone <url-do-repositorio>
+   git clone https://github.com/jenniferinacio/SecretariaApi.git
    ```
    ou apenas extraia o arquivo `.zip`.
 
@@ -59,14 +59,12 @@ Para rodar o projeto em modo de desenvolvimento:
 2. Pressione **F5** ou clique em **Iniciar Debugging**.
 3. A API será iniciada em um endereço como:
    ```
-   https://localhost:5001
-   http://localhost:5000
+   https://localhost:44352/swagger/index.html
    ```
 
 Você pode testar os endpoints com ferramentas como:
 
 - [Postman](https://www.postman.com/)
-- [Swagger](https://swagger.io/) (se habilitado no projeto)
 
 ## 📁 Estrutura Básica do Projeto
 
