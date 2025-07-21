@@ -53,8 +53,9 @@ Se necessário, crie o banco de dados manualmente ou configure a aplicação par
 Para rodar o projeto em modo de desenvolvimento:
 
 1. No Visual Studio, selecione `SecretariaApi` como projeto de inicialização.
-2. Pressione **F5** ou clique em **Iniciar Debugging**.
-3. A API será iniciada em um endereço como:
+2. No topo da janela, selecione o perfil IIS Express no menu suspenso de execução.
+3. Pressione **F5** ou clique em **Iniciar Debugging**.
+4. A API será iniciada em um endereço como:
    ```
    https://localhost:44352/swagger/index.html
    ```
