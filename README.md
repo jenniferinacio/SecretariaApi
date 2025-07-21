@@ -48,6 +48,18 @@ Verifique o arquivo:
 
 Se necessário, crie o banco de dados manualmente ou configure a aplicação para aplicar as `migrations`.
 
+## 🗄️ Banco de Dados
+
+Para criar as tabelas necessárias, execute o script SQL disponível no arquivo `dump.sql` antes de rodar o projeto.
+
+- Esse projeto utiliza Sql Server.
+
+### Como executar o script `dump.sql`:
+
+1. Abra seu cliente de banco de dados ou terminal.
+2. Conecte-se ao banco de dados configurado na string de conexão.
+3. Execute script.
+
 ## ▶️ Execução
 
 Para rodar o projeto em modo de desenvolvimento:
