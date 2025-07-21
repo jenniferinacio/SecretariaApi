@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "JjEDKZz6og8K26fxujCUH/jbvtGSm0t5Pl9YcTAfLwY=",
+  "Source": "SecretariaApi",
+  "BasePath": "_content/SecretariaApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
